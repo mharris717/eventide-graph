@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    facets (3.1.0)
+    fattr (2.4.0)
+    mharris_ext (1.7.1)
+      facets
+      fattr
+    rake (12.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mharris_ext
+  rake
+
+BUNDLED WITH
+   1.17.1
