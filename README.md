@@ -21,3 +21,5 @@ Rake Tasks:
 ### Notes
 
 Your graph will come out best if you only have one type of starting event (i.e. your graph has one start node with no inbound edges).
+
+This is all super rough. Figured I'd put it up in case others found it useful. 
